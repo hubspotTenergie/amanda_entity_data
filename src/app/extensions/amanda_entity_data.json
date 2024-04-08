@@ -1,0 +1,16 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Documents Ventes : Validation Projet",
+    "uid": "amanda_entity_data",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "AmandEntityData.jsx"
+    },
+    "objectTypes": [
+      {
+        "name": "deals"
+      }
+    ]
+  }
+}
